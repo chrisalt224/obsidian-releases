@@ -16512,5 +16512,12 @@
     "description": "Fetch data from multiple sources (REST APIs, RPC, gRPC, GraphQL) and insert results into notes",
     "repo": "qf3l3k/obsidian-api-fetcher"
   }
-]
+{
+    "id": "contacts-pro",
+    "name": "Contacts Pro",
+    "author": "Christopher Altomare",
+    "description": "Create and manage contact cards in Obsidian, with the ability to link contacts to notes and files. Separate Graph View turning contacts into nodes and showing their linked notes.",
+    "repo": "chrisalt224/ContactsPro"
+  }
+
 
